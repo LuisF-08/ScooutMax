@@ -1,0 +1,12 @@
+-> Previsão de resultado entre 2 times 
+-> Previsão de jogador com Mais Promissor
+-> Jogador com mais gols
+-> Jogador com mais desarmes
+-> jogador com mais assistências
+-> Jogador com mais passes
+-> Melhor Jogador do campeonato
+-> Jogador com a maior Média
+-> Time com a melhoer defesa
+-> Time com o melhor ataque
+-> Melhor técnico do campeonato
+-> Time do campeonato
